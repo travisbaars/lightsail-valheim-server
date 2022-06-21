@@ -1,4 +1,5 @@
 /config/worlds
 /config/backups
 /data
-
+/config/adminlist.txt
+valheim.env
